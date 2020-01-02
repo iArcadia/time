@@ -1,5 +1,5 @@
 {
-    "name": "kbibollet/time",
+    "name": "iarcadia/time",
     "description": "A PHP time/duration library... again.",
     "type": "library",
     "license": "MIT",
