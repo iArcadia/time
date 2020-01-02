@@ -1,0 +1,22 @@
+{
+    "name": "kbibollet/time",
+    "description": "A PHP time/duration library... again.",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Kevin Bibollet",
+            "email": "bibollet.kevin@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "iArcadia\\Time\\": "src/"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.0"
+    }
+}
