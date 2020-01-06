@@ -52,7 +52,7 @@ The static method will be used for the rest of the readme.
 * @param int|float $s - Seconds
 * @param int|float $v - Milliseconds
 *
-* @return iArcadia\Time\Time
+* @return iarcadia\time\Time
 */
 ```
 
@@ -76,7 +76,7 @@ $time = Time::create(0, 45, 12, 476);
 /**
 * @param int|float $int_or_float = 0 - Starting timestamp
 *
-* @return iArcadia\Time\Time
+* @return iarcadia\time\Time
 */
 ```
 

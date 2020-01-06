@@ -1,10 +1,10 @@
 <?php
 
-namespace iArcadia\Time\Traits;
+namespace iarcadia\time\traits;
 
 /**
  * Trait TimeGetters
- * @package iArcadia\Time\Traits
+ * @package iarcadia\time\traits
  */
 trait TimeGetters
 {

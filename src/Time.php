@@ -1,12 +1,12 @@
 <?php
 
-namespace iArcadia\Time;
+namespace iarcadia\time;
 
-use iArcadia\Time\Traits\TimeComparison;
-use iArcadia\Time\Traits\TimeFormatter;
-use iArcadia\Time\Traits\TimeGetters;
-use iArcadia\Time\Traits\TimeOperation;
-use iArcadia\Time\Traits\TimeSetters;
+use iarcadia\time\traits\TimeComparison;
+use iarcadia\time\traits\TimeFormatter;
+use iarcadia\time\traits\TimeGetters;
+use iarcadia\time\traits\TimeOperation;
+use iarcadia\time\traits\TimeSetters;
 
 /**
  * Class Time

@@ -1,12 +1,12 @@
 <?php
 
-namespace iArcadia\Time\Traits;
+namespace iarcadia\time\traits;
 
-use iArcadia\Time\Time;
+use iarcadia\time\Time;
 
 /**
  * Trait TimeComparison
- * @package iArcadia\Time\Traits
+ * @package iarcadia\time\traits
  */
 trait TimeComparison
 {
