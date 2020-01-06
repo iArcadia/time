@@ -3,7 +3,7 @@
     "description": "A PHP time/duration library... again.",
     "type": "library",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Kevin Bibollet",
