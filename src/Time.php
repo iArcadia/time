@@ -62,7 +62,7 @@ class Time
      * @param mixed $value
      * @return $this
      */
-    public function __set(string $attribute, $value): self
+    public function __set(string $attribute, $value): void
     {
         $setter = 'set' . ucfirst(preg_replace_callback('/_[a-zA-Z0-9]/', function ($matches) {
                 $str = '';
