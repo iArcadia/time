@@ -60,9 +60,9 @@ class Time
      * Set a fake attribute execute its setter if existing.
      * @param string $attribute
      * @param mixed $value
-     * @return $this
+     * @return $this|null
      */
-    public function __set(string $attribute, $value): void
+    public function __set(string $attribute, $value)
     {
         $setter = 'set' . ucfirst(preg_replace_callback('/_[a-zA-Z0-9]/', function ($matches) {
                 $str = '';
